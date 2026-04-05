@@ -1,22 +1,15 @@
 <h1>Hi, I'm Bobbi Jo! <br/><a href="https://github.com/joshmadakor1">Cybersecurity Professional</a> <a href="https://www.linkedin.com/in/bobbi-jo-halladay/"> </a></h1>
 
-<h2>💻 Cyber Securirty Projects:</h2>
+<h2>💻 Featured Projects</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python]
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware]<b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion]
-  - [JWipe (Disk Wiping Utility)]
-  - [Active Directory Bulk User Creation]
-  - [FIM (File Integrity Monitor)]
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)]
-  - [Ransomware Proof of Concept (Decrypter)]
-  - [Keylogger with Email Capability]
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)]
+| Project | Description |
+|---------|-------------|
+| [rekall-penetration-test](https://github.com/bjhalladay/rekall-penetration-test) | Full-scope external + internal pentest report for a simulated client. Nmap, Metasploit, industry-standard reporting. |
+| [hipaa-risk-assessment-clearpath](https://github.com/bjhalladay/hipaa-risk-assessment-clearpath) | HIPAA risk assessment, NIST CSF gap analysis, and written security policies for a fictional healthcare client. |
+| [keylogger-meterpreter-demo](https://github.com/bjhalladay/keylogger-meterpreter-demo) | Post-exploitation keylogger demo in an isolated lab (msfvenom + Meterpreter) with matched blue-team defenses. |
+| [threat-model-geldcorp](https://github.com/bjhalladay/threat-model-geldcorp) | STRIDE-style threat model, risk heat map, and cost-ranked mitigation plan. |
+| [phishing-investigation-splunk](https://github.com/bjhalladay/phishing-investigation-splunk) | Phishing email investigation using Splunk + Wireshark with IOC extraction and remediation notes. |
+| [vlan-routing-lab](https://github.com/bjhalladay/vlan-routing-lab) | VLANs and inter-VLAN routing in Cisco Packet Tracer (router-on-a-stick, 802.1Q trunking). |
 
 <h2>📺 Popular YouTube Videos</h2>
 
