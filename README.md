@@ -11,7 +11,7 @@
 
   I'm a cybersecurity practitioner at CarePathRx focused on SOC analysis, threat detection, and incident response. My GitHub is a living portfolio of hands-on labs built inside my home SOC - real tools, real attacks, real detections.
   
-🔐 Created Safe Click — a free Skool community I built to make cybersecurity accessible for everyday people, especially seniors
+🛡️ Created Safe Click — a free Skool community I built to make cybersecurity accessible for everyday people, especially seniors
 
 🔭 Currently building: detection engineering content + expanding my home lab SIEM coverage
 
