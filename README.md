@@ -7,8 +7,8 @@
   <a href="https://github.com/bjhalladay"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=bjhalladay&style=for-the-badge&color=blue" />
 </p>
-<h1 align="center">🛡️ About Me
-
+<h1 align="center">🌟 About Me 🌟  
+ 
   I'm a cybersecurity practitioner at CarePathRx focused on SOC analysis, threat detection, and incident response. My GitHub is a living portfolio of hands-on labs built inside my home SOC - real tools, real attacks, real detections.
   
 🛡️ Created Safe Click — a free Skool community I built to make cybersecurity accessible for everyday people, especially seniors
