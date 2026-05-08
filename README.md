@@ -1,48 +1,58 @@
-<!-- Save this file as README.md in a new repo named exactly: bjhalladay/bjhalladay -->
-<!-- That special repo renders on your GitHub profile page -->
-<h1 align="center">Hi, I'm Bobbi Jo 👋</h1>
-<h3 align="center">Cybersecurity Practitioner · SOC Analysis · Threat Detection · Incident Response</h3>
-<p align="center">
-  <a href="https://www.linkedin.com/in/bobbi-jo-halladay/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/bjhalladay"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=bjhalladay&style=for-the-badge&color=blue" />
-</p>
-<h1 align="center">🌟 About Me 🌟  
- 
-  I'm a cybersecurity practitioner at CarePathRx focused on SOC analysis, threat detection, and incident response. My GitHub is a living portfolio of hands-on labs built inside my home SOC - real tools, real attacks, real detections.
-  
-🛡️ Created Safe Click — a free Skool community I built to make cybersecurity accessible for everyday people, especially seniors
+ Hi, I'm Bobbi Jo 👋
 
-🔭 Currently building: detection engineering content + expanding my home lab SIEM coverage
+  ### Cybersecurity Analyst · Awareness Educator · Founder, [The Safe Click Project](https://thesafeclickproject.com)
 
-🌱 Learning: Sigma rules, MITRE ATT&CK mapping, purple-team workflows
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bobbi-jo-halladay/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bjhalladay)
+[![Website](https://img.shields.io/badge/Safe%20Click%20Project-0E2942?style=for-the-badge&logo=googlechrome&logoColor=4FE3D5)](https://thesafeclickproject.com)
+![Profile views](https://komarev.com/ghpvc/?username=bjhalladay&style=for-the-badge&color=blue)
 
-💬 Ask me about: SOC workflows, phishing IR, HIPAA/NIST assessments, home-lab architecture
+---
 
-<h2>💻 Featured Projects</h2>
+## 🌟 About Me
+
+I'm a Certified Pharmacy Technician (CPhT) with 23+ years inside HIPAA, DEA, and FDA-regulated healthcare environments, currently transitioning full-time into cybersecurity. My focus right now is building [The Safe Click Project](https://thesafeclickproject.com), pursuing my BS in Marketing at Western Governors University on an accelerated competency-based timeline, and shipping hands-on security work through this GitHub.
+
+This portfolio is the proof behind the transition: real labs, real attacks, real detections, real documentation.
+
+🛡️ **Founder of [The Safe Click Project](https://thesafeclickproject.com)** — a plain-language cybersecurity education program for families, seniors, teens, and everyday users. Five courses, 20+ published lessons across foundational, advanced, and audience-specific tracks.
+
+🔭 **Currently building:** cybersecurity home lab content, phishing investigation workflows, and detection engineering practice in Splunk.
+
+🌱 **Learning:** Sigma rules, MITRE ATT&CK mapping, purple-team workflows, SIEM tuning.
+
+🎓 **Recently completed:** University of Utah Cybersecurity Bootcamp. CompTIA Security+ scheduled.
+
+🏥 **Carrying forward:** 23+ years inside regulated healthcare (HIPAA, DEA, FDA, controlled substances), audit-ready documentation discipline, and lead-trainer experience designing technician onboarding programs at a community pharmacy.
+
+💬 **Ask me about:** HIPAA-regulated environments from the inside, regulated-healthcare-to-cyber crossover, security awareness program design, plain-language threat education, home-lab architecture.
+
+📍 Grantsville, UT
+
+---
+
+## 💻 Featured Projects
 
 | Project | Description |
-|---------|-------------|
-| [home-lab-setup](https://github.com/bjhalladay/home-lab-setup), | Home SOC / infrastructure, ThinkStation P520, VMware, pfSense, Splunk
-| [rekall-penetration-test](https://github.com/bjhalladay/rekall-penetration-test) | Full-scope external + internal pentest report for a simulated client. Nmap, Metasploit, industry-standard reporting. |
-| [hipaa-risk-assessment-clearpath](https://github.com/bjhalladay/hipaa-risk-assessment-clearpath) | HIPAA risk assessment, NIST CSF gap analysis, and written security policies for a fictional healthcare client. |
+| --- | --- |
+| [home-lab-setup](https://github.com/bjhalladay/home-lab-setup) | Home SOC and infrastructure build: ThinkStation P520, VMware, pfSense, Splunk. The lab everything else gets tested in. |
+| [phishing-investigation-splunk](https://github.com/bjhalladay/phishing-investigation-splunk) | End-to-end phishing email investigation using Splunk and Wireshark, with IOC extraction and remediation notes. |
+| [hipaa-risk-assessment-clearpath](https://github.com/bjhalladay/hipaa-risk-assessment-clearpath) | Full HIPAA risk assessment, NIST CSF gap analysis, and a five-policy security package for a fictional specialty pharmacy. |
+| [rekall-penetration-test](https://github.com/bjhalladay/rekall-penetration-test) | Full-scope external and internal pentest report for a simulated client using Nmap, Metasploit, and industry-standard reporting. |
+| [threat-model-geldcorp](https://github.com/bjhalladay/threat-model-geldcorp) | STRIDE-style threat model with risk heat map and cost-ranked mitigation plan. |
 | [keylogger-meterpreter-demo](https://github.com/bjhalladay/keylogger-meterpreter-demo) | Post-exploitation keylogger demo in an isolated lab (msfvenom + Meterpreter) with matched blue-team defenses. |
-| [threat-model-geldcorp](https://github.com/bjhalladay/threat-model-geldcorp) | STRIDE-style threat model, risk heat map, and cost-ranked mitigation plan. |
-| [phishing-investigation-splunk](https://github.com/bjhalladay/phishing-investigation-splunk) | Phishing email investigation using Splunk + Wireshark with IOC extraction and remediation notes. |
 | [vlan-routing-lab](https://github.com/bjhalladay/vlan-routing-lab) | VLANs and inter-VLAN routing in Cisco Packet Tracer (router-on-a-stick, 802.1Q trunking). |
 
-<h1 align="center">"Break it in the lab so you can defend it in production."
+---
 
-</h2>🤳 Connect with Me</h2>
+> ### "Break it in the lab so you can defend it in production."
 
+---
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+## 🤳 Connect
 
-
-[instagram]: https://www.instagram.com
-[linkedin]: https://linkedin.com/in/bobbi-jo-halladay  
-
+[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)](https://linkedin.com/in/bobbi-jo-halladay)
+[![Website](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlechrome.svg)](https://thesafeclickproject.com)
 <!--
 ## Hi there 👋
 
